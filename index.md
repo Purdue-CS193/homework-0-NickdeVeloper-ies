@@ -1,3 +1,8 @@
+# Nick DeVries's First CS193 Homework
+- The teachers seem nice, helpful, and approachable
+- The documentation for assignments is well-written and easy to understand (so far)
+- GitHub makes managing assignments very easy
+- We have the freedom to attend any PSO
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
